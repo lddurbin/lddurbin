@@ -10,9 +10,10 @@ Welsh by birth, Aucklander by choice. English Literature graduate turned data le
 
 ---
 
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white)
 ![Quarto](https://img.shields.io/badge/-Quarto-39729E?style=flat-square&logo=quarto&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
