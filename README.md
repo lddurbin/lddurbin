@@ -3,7 +3,9 @@
 Welsh by birth, Aucklander by choice. English Literature graduate turned data leader. I work at the intersection of humanities and technology — building tools, writing essays, and arguing (politely) that good data work is mostly an interpretive practice.
 
 📍 Tāmaki Makaurau / Auckland · 🇳🇿
+
 🎓 BA & MA (Distinction), English Literature — University of Exeter
+
 💼 Product Owner, Auckland Council · Co-founder, Blue Dollars
 
 ---
