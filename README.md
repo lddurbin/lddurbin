@@ -23,7 +23,7 @@ Welsh by birth, Aucklander by choice. English Literature graduate turned data le
 
 **[Myndarin](https://www.myndarin.com/)** — A Mandarin learning app implementing the Hanzi Movie Method with SM-2 spaced repetition. Built because the existing tools weren't quite what I wanted while working through the Mandarin Blueprint course.
 
-**[packagepal]([#](https://cran.r-project.org/web/packages/packagepal/index.html)** — The goal of packagepal is to be a good pal for R package builders.
+**[packagepal](https://cran.r-project.org/web/packages/packagepal/index.html)** — The goal of packagepal is to be a good pal for R package builders.
 
 **[12 Days to Deming](https://deming.leedurbin.co.nz/)** — A respectful interactive rendering of an active-learning course based on the teachings of Dr. W. Edwards Deming, developed by Henry R. Neave.
 
