@@ -48,13 +48,6 @@ I've spoken at posit::conf(2024) in Seattle, run a 70+ member data visualisation
 
 ---
 
-## 📊 GitHub
-
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lddurbin&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lddurbin&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🤝 Where to find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lee-durbin/) — where most of the conversation happens
